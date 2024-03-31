@@ -1,0 +1,4 @@
+#!/bin/zsh
+srcname=$1
+execname="${srcname%.*}"
+rustc --out-dir bin/ $srcname && ./bin/$execname

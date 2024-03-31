@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated />
   </component>
@@ -9,7 +12,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a7cf5ad-ce84-45d2-ad4f-368131fbdbaf" name="Default Changelist" comment="" />
+    <list default="true" id="1a7cf5ad-ce84-45d2-ad4f-368131fbdbaf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,17 +31,34 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="6b8sk46s" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="1f8WM5SgvsaArQbw1sGNdm6YrZF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="cf.first.check.clang-format" value="false" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1a7cf5ad-ce84-45d2-ad4f-368131fbdbaf" name="Default Changelist" comment="" />
@@ -43,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595600148379</updated>
       <workItem from="1595600152086" duration="300000" />
+      <workItem from="1711882896726" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="init GH">
       <created>1595600174416</created>
@@ -53,6 +78,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -68,15 +96,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init GH" />
     <option name="LAST_COMMIT_MESSAGE" value="init GH" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="10" y="70" width="801" height="902" key="CommitChangelistDialog2" timestamp="1595600174226">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state x="10" y="70" width="801" height="902" key="CommitChangelistDialog2/0.0.1920.1044@0.0.1920.1044" timestamp="1595600174226" />
-    <state x="16" y="258" key="Vcs.Push.Dialog.v2" timestamp="1595600207408">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state x="16" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1044@0.0.1920.1044" timestamp="1595600207408" />
   </component>
 </project>
